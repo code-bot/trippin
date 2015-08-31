@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">trippin</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_genre">Pick Genre</string>
+    <string name="city">Atlanta, GA</string>
+    <string-array name="genres">
+        <item>Hip Hop</item>
+        <item>Rock</item>
+        <item>Country</item>
+        <item>EDM</item>
+    </string-array>
+    <string name="title_activity_music">Now Playing</string>
+    <string name="title_activity_landing_page">trippin</string>
+</resources>
